@@ -18,11 +18,11 @@ A modern glassmorphism login screen built with Flutter.
 
 This repository is intended as a UI example.
 
-# Option 1 (Recommended)
+### Option 1 (Recommended)
 
 Replace your project's lib/main.dart with glass_login.dart to preview the UI immediately.
 
-# Option 2
+### Option 2
 
 Open glass_login.dart and copy the widgets you need (such as GlassLoginPage) into your existing Flutter project, then integrate them into your app.
 
