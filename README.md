@@ -30,11 +30,6 @@ Open glass_login.dart and copy the widgets you need (such as GlassLoginPage) int
 
 This project contains only the login UI frontend. No authentication, backend, database, or API integration is included.
 
-## Built With
+Built with Flutter & Dart.
 
-* Flutter
-* Dart
-
-## Follow
-
-If you found this project useful, consider sharing the repository and following for more Flutter UI builds.
+If you found this project useful, consider starring the repository.
