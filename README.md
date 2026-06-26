@@ -17,8 +17,8 @@ A modern glassmorphism login screen built with Flutter.
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/fvi1623/Glass-Login.git
+cd Glass-Login
 flutter pub get
 flutter run
 ```
