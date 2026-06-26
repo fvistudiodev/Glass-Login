@@ -4,7 +4,7 @@ A modern glassmorphism login screen built with Flutter.
 
 ## Preview
 
-<img src="assets/screenshot-1.png" alt="Flutter Glass Login UI" width="400"/>
+<img src="assets/screenshot.png" alt="Flutter Glass Login UI" width="400"/>
 
 ## Features
 
