@@ -35,10 +35,6 @@ This project contains only the login UI frontend. No authentication, backend, da
 * Flutter
 * Dart
 
-## License
-
-Feel free to use this project for learning, inspiration, and personal projects.
-
 ## Follow
 
 If you found this project useful, consider sharing the repository and following for more Flutter UI builds.
